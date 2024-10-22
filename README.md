@@ -36,7 +36,22 @@ This repository contains the complete code and implementation details for an end
 
 ## Repository Structure
 
-├── data/ │ ├── raw/ │ ├── processed/ ├── src/ │ ├── data_ingestion.py │ ├── data_validation.py │ ├── model_training.py │ ├── batch_prediction.py ├── logs/ ├── models/ ├── setup.py ├── Dockerfile ├── .github/ │ └── workflows/ │ └── ci-cd.yml └── README.md
+├── data/
+│   ├── raw/
+│   ├── processed/
+├── src/
+│   ├── data_ingestion.py
+│   ├── data_validation.py
+│   ├── model_training.py
+│   ├── batch_prediction.py
+├── logs/
+├── models/
+├── setup.py
+├── Dockerfile
+├── .github/
+│   └── workflows/
+│       └── ci-cd.yml
+└── README.md
 
 
 ## How to Use
