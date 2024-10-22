@@ -4,7 +4,7 @@ This repository contains the complete code and implementation details for an end
 
 ## Architecture
 
-![Uploading Screenshot 2024-10-22 at 6.53.05 PM.png…]()
+![Architecture](Screenshot 2024-10-22 at 6.53.05 PM)
 
 
 ## Project Structure & Environment Setup
