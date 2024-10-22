@@ -70,7 +70,7 @@ This repository contains the complete code and implementation details for an end
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   https://github.com/wrvarun-96/End-to-End-MLOps-Project-with-ETL-Pipeline---Building-Network-Security-System.git
 2. Set Up the Environment: Follow the instructions in setup.py to install required dependencies.
 3. Run the ETL Pipeline: Use the following command to start the data ingestion process:
     python src/data_ingestion.py
