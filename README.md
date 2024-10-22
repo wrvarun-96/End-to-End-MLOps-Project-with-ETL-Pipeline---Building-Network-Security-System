@@ -73,10 +73,12 @@ This repository contains the complete code and implementation details for an end
    https://github.com/wrvarun-96/End-to-End-MLOps-Project-with-ETL-Pipeline---Building-Network-Security-System.git
 2. Set Up the Environment: Follow the instructions in setup.py to install required dependencies.
 3. Run the ETL Pipeline: Use the following command to start the data ingestion process:
+   ```python
     python src/data_ingestion.py
-4. Train the Model: Run the following command for training with tuned hyperparameters:
+5. Train the Model: Run the following command for training with tuned hyperparameters:
+   ```python
    python src/model_training.py
-5. Deploy the Model: Build and deploy Docker containers using docker-compose and GitHub Actions.
+7. Deploy the Model: Build and deploy Docker containers using docker-compose and GitHub Actions.
 
 
 
