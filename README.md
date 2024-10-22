@@ -2,6 +2,11 @@
 
 This repository contains the complete code and implementation details for an end-to-end MLOps project, focused on building a network security system. The project encompasses all aspects of machine learning operations (MLOps), from setting up the environment to deploying the final model on AWS EC2. Below is an overview of the project's key components:
 
+## Architecture
+
+![Uploading Screenshot 2024-10-22 at 6.53.05 PM.png…]()
+
+
 ## Project Structure & Environment Setup
 
 - Structured the project using best practices for scalable machine learning projects.
